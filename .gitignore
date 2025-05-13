@@ -1,0 +1,41 @@
+# Node dependencies
+
+node\_modules/
+
+# Logs
+
+npm-debug.log\*
+yarn-debug.log\*
+pnpm-debug.log\*
+logs/
+\*.log
+
+# Environment variables
+
+.env
+
+# Build output directories
+
+dist/
+model\_tfjs/
+
+# Data directories (raw and processed)
+
+data/raw/
+data/processed/
+
+# Editor directories and files
+
+.vscode/
+.idea/
+.DS\_Store
+\*.swp
+
+# Coverage reports
+
+coverage/
+
+# Misc
+
+.DS\_Store
+Thumbs.db

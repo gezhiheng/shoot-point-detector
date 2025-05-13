@@ -1,0 +1,19 @@
+{
+  "name": "shoot-point-detector",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "train": "node src/train.js",
+     "test": "node src/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.22.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "@tensorflow/tfjs-data": "^4.22.0"
+  }
+}
