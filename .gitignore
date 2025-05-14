@@ -23,6 +23,7 @@ model\_tfjs/
 
 data/raw/
 data/processed/
+data/labels/
 
 # Editor directories and files
 
